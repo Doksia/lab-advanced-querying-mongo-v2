@@ -13,7 +13,7 @@ We have learned some super useful query operators that will helps us to make muc
 - Fork this repo
 - Clone this repo
 
-## Submission
+## Submission.
 
 - Upon completion, run the following commands
 
